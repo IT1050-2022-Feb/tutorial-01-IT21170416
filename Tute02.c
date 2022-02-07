@@ -34,6 +34,8 @@ int main() {
 	{	
 		Amount = 30 * Distance + (Distance-30) * 40;
 	}
+	
+	printf("Amount to be: %.2f",Amount);
   
   return 0;
 }
